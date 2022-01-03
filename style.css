@@ -1,0 +1,63 @@
+input {
+  width: 90%;
+  height: 40px;
+  color: #90afc5;
+  font-family: Poppins;
+  background-color: #763262;
+}
+
+h1 {
+  text-align: center;
+  color: #90afc5;
+  font-size: 200px;
+}
+body {
+  text-align: center;
+  background-color: #2a3132;
+}
+
+label {
+  color: #90afc5;
+
+}
+
+div {
+}
+
+form {
+  width: 90%;
+  height: 80px;
+  font-family: Poppins;
+  color: #336b87;
+}
+
+footer {
+  font-family: Poppins;
+  text-align: center;
+  color: #90afc5;
+}
+
+a:link {
+  color: #90afc5;
+}
+a:visited {
+  color: #90afc5;
+}
+#resultTab {
+  text-align: center;
+  font-family: Poppins;
+  color: #90afc5;
+  font-size: 40px;
+
+}
+
+#Sentiment {
+  text-align: center;
+  font-family: Poppins;
+  color: #90afc5;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(Poppins-Medium.ttf);
+}
